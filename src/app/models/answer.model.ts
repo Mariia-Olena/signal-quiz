@@ -1,4 +1,4 @@
 export interface Answer {
-    readonly userAnswerIndex: number;
-    readonly isCorrect: boolean;
+  readonly userAnswerIndex: number;
+  readonly isCorrect: boolean;
 }
